@@ -1,0 +1,87 @@
+body{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/d4/4d/ce/d44dced280a3ccda75e2b9a17551af9c.jpg);
+}
+
+a{
+    padding: 15px;
+    font-size: 18px;
+    color: lightcoral;
+    text-decoration: none;
+}
+
+body nav{
+    text-align: center;
+}
+
+#banner{
+    text-align: center;
+}
+
+header h1{
+    color: fuchsia;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.my-container h2{
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.my-container p{
+    color: lightcoral;
+    margin: 10px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#conteudo{
+    text-decoration: none;
+}
+
+#conteudo ul{
+    font-size: 18px;
+    display: inline-block;
+    border: groove 5px rgb(38, 0, 255);
+    background-color: rgba(139, 0, 139, 0.247);
+    margin: 10px;
+    padding: 10px 0px 10px 30px;
+    width: 600px;
+    height: 100px;
+}
+
+#lista table{
+    border-color: rgb(85, 83, 83);
+}
+
+#lista th{
+    color: rgb(0, 0, 0);
+    width: 80px;
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.479);
+}
+
+#lista td{
+    color: indigo;
+    width: 80px;
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.479);
+}
+
+hr{
+    width: 99%;
+    border-color: red;
+}
+
+input{
+    text-decoration: none;
+}
+
+footer{
+    text-align: right;
+}
